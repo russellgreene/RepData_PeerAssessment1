@@ -1,3 +1,11 @@
+## Reproducible Research: Peer Assessment 1
+### Russell Greene
+### May, 2016
+
+Please see the PA1_template.Rmd file for the submission as well as the
+corresponding html file.
+
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
